@@ -15,8 +15,7 @@ I am currently working on node js
 ---
 [![](https://visitcount.itsvg.in/api?id=CodewithTanzeel&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/CodewithTanzeel) 
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
