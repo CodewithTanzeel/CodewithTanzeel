@@ -10,6 +10,10 @@
 - 🌱 I’m currently learning **GODOT**
 
 - 📫 How to reach me **Tanzeelofficial@outlook.com**
+  ## 🚀 My Products
+
+[![Musawwada](https://img.shields.io/badge/📝-Musawwada-4F46E5?style=for-the-badge)](https://musawwada.vercel.app/)
+[![Physical AI](https://img.shields.io/badge/🤖-Introduction%20to%20Physical%20AI-10B981?style=for-the-badge)](https://introduction-to-physical-ai.vercel.app/docs/intro)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
