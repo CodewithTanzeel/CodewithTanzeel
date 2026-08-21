@@ -1,0 +1,48 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Contribution Calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          user: CodewithTanzeel
+          base: ""
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          output_action: commit
+
+          config_timezone: Asia/Karachi
+
+      - name: Open Source Contributions
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-notable.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          user: CodewithTanzeel
+          base: ""
+
+          plugin_notable: yes
+          plugin_notable_types: commit,pull_request,issue
+          plugin_notable_from: all
+          plugin_notable_repositories: yes
+
+          output_action: commit
+
+          config_timezone: Asia/Karachi
