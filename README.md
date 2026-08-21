@@ -302,36 +302,20 @@ Learning Unreal Engine is my current way of exploring **gameplay, environments, 
 
 ---
 
-## `12` — THE CURRENT ARC
+## `12` — NOW PLAYING
 
-```text
-                         NOW
-                          │
-                          ▼
-                ┌───────────────────┐
-                │   MACHINE LEARNING│
-                └─────────┬─────────┘
-                          │
-                          ▼
-                ┌───────────────────┐
-                │   DEEP LEARNING   │
-                └─────────┬─────────┘
-                          │
-                 ┌────────┴────────┐
-                 ▼                 ▼
-            RESEARCH          IMPLEMENTATION
-                 │                 │
-                 └────────┬────────┘
-                          ▼
-                   INTELLIGENT
-                     SYSTEMS
-                          │
-                          ▼
-                  REAL APPLICATIONS
+<div align="center">
 
+<audio controls>
+  <source src="./music/song.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 
-             SIDE QUEST ──► UNREAL ENGINE 🎮
-```
+<br>
+
+**♫ One More Light — Linkin Park**
+
+</div>
 
 ---
 
