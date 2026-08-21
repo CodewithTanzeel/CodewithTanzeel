@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./anime-day.jfif" width="100%" alt="Anime header"/>
+<img src="./anime-day.jfif" width="100%" height="250" alt="Anime header" style="object-fit: cover;"/>
 
 <br><br>
 
