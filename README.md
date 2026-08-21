@@ -306,17 +306,23 @@ Learning Unreal Engine is my current way of exploring **gameplay, environments, 
 
 <div align="center">
 
-<audio controls>
-  <source src="./music/song.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+<a href="./music/song.mp3">
 
-<br>
+<img src="https://img.youtube.com/vi/Tm8LGxTLtQk/maxresdefault.jpg"
+     width="420"
+     alt="One More Light — Linkin Park"/>
+
+</a>
+
+<br><br>
 
 **♫ One More Light — Linkin Park**
 
-</div>
+<br>
 
+`▶ CLICK TO PLAY`
+
+</div>
 ---
 
 <div align="center">
