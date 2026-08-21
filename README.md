@@ -288,15 +288,7 @@ Learning Unreal Engine is my current way of exploring **gameplay, environments, 
 
 <div align="center">
 
-<img src="./metrics-isocalendar.svg" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="./metrics-notable.svg" width="100%"/>
+<img src="./metrics-github.svg" width="94%" alt="GitHub activity and language statistics"/>
 
 </div>
 
