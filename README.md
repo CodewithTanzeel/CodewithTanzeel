@@ -288,9 +288,15 @@ Learning Unreal Engine is my current way of exploring **gameplay, environments, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CodewithTanzeel&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" height="170"/>
+<img src="./metrics-isocalendar.svg" width="100%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodewithTanzeel&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="170"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="./metrics-notable.svg" width="100%"/>
 
 </div>
 
