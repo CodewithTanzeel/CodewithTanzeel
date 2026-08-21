@@ -47,7 +47,7 @@ jobs:
 
           config_timezone: Asia/Karachi
 
-      - name: GitHub Activity
+      - name: GitHub Signal
         uses: lowlighter/metrics@latest
         with:
           filename: metrics-github.svg
@@ -56,11 +56,11 @@ jobs:
           user: CodewithTanzeel
           base: header, activity, community, repositories
 
-          config_timezone: Asia/Karachi
-
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_limit: 8
           plugin_languages_colors: github
 
           output_action: commit
+
+          config_timezone: Asia/Karachi
