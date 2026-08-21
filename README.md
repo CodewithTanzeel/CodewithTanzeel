@@ -1,16 +1,18 @@
 <div align="center">
 
-<img src="anime-day.jfif" width="100%" alt="Anime landscape"/>
+<img src="./anime-day.jfif" width="100%" alt="Anime header"/>
 
-<br>
+<br><br>
 
-# TANZEEL AHMAD
+# 𝐓𝐀𝐍𝐙𝐄𝐄𝐋 𝐀𝐇𝐌𝐀𝐃
 
 ### `Machine Learning` · `Deep Learning` · `Software Engineering`
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Machine+Learning+%7C+Deep+Learning;Understanding+before+building.;Researching.+Implementing.+Experimenting.;Building+AI+responsibly.;Building+for+the+joy+of+building." alt="Typing SVG"/>
+
 <br>
 
-**機械を理解する。モデルを育てる。世界をつくる。**
+### 「機械を理解する。モデルを育てる。世界をつくる。」
 
 *Understand machines. Train models. Build worlds.*
 
@@ -22,129 +24,148 @@
 
 ---
 
-## `01` — THE ENGINEER
+## `01` — WHO AM I?
 
-I'm an **intermediate ML/DL engineer in the making**, currently spending more time understanding *why* things work than simply making them work.
+I'm **Tanzeel Ahmad**, currently focused on **Machine Learning and Deep Learning**, with Software Engineering as the foundation behind everything I build.
 
-My main focus is **Machine Learning and Deep Learning**, with particular curiosity around:
+I'm at an intermediate stage in ML/DL and currently spending a lot of time going through **research papers, analysing architectures, understanding the underlying ideas, and finding my way through implementation**.
 
-* Natural Language Processing
-* Reinforcement Learning
-* Transfer Learning
-* Multimodal AI
-* Autonomous Vehicles
-* Generative Models
-* Graph Neural Networks
+I'm especially curious about:
 
-Right now, I'm going through **research papers**, breaking down ideas, implementing what I can, and slowly finding my way through the field.
+`NLP` · `Reinforcement Learning` · `Transfer Learning`
+`Multimodal AI` · `Generative Models` · `Graph Neural Networks`
+`Autonomous Vehicles` · `Computer Vision`
 
-I'm not interested in collecting buzzwords.
+I don't want to just know how to call a model.
 
-I'm interested in understanding them.
+I want to understand **why it works**.
 
 ---
 
-## `02` — WHAT KEEPS ME CURIOUS
-
-```text
-                 MACHINE LEARNING
-                        │
-        ┌───────────────┼────────────────┐
-        │               │                │
-       NLP          DEEP LEARNING     MULTIMODAL
-        │               │                │
-        │        ┌──────┼──────┐         │
-        │        │      │      │         │
-       LLMs     GANs   GNNs   CNNs      VLMs
-        │
-        └──────────────┬─────────────────┘
-                       │
-                INTELLIGENT SYSTEMS
-                       │
-              ┌────────┴────────┐
-              │                 │
-        AUTONOMOUS          RESEARCH
-         SYSTEMS            & PAPERS
-```
-
-### Things that changed how I think
-
-**GANs**
-
-Probably the subject I could accidentally spend hours talking about.
-
-**FaceNet**
-
-Made me look differently at representation learning and the power of architectures that learn useful embeddings.
-
-**Graph Neural Networks**
-
-Made me appreciate how much information gets lost when we assume everything has to look like a conventional vector, image, or sequence.
-
-**VAN**
-
-Implementing VAN from scratch taught me more than simply reading about the architecture.
-
----
-
-## `03` — RESEARCH MODE
+## `02` — CURRENT FOCUS
 
 <div align="center">
 
-### 研究中 — *Researching*
+### 🧠 MACHINE LEARNING
+
+`NLP` · `Transfer Learning` · `Reinforcement Learning`
+
+### 🧬 DEEP LEARNING
+
+`GANs` · `GNNs` · `Computer Vision` · `Representation Learning`
+
+### 🤖 MULTIMODAL AI
+
+`Vision` · `Language` · `Multimodal Systems`
+
+### 🚗 AUTONOMOUS SYSTEMS
+
+`Perception` · `Intelligent Decision Making` · `Autonomous Vehicles`
 
 </div>
 
-I'm currently building my understanding through **research papers and implementation**.
+---
 
-My approach is simple:
+## `03` — THINGS THAT CHANGED HOW I THINK
 
-```text
-Read
- ↓
-Question
- ↓
-Understand
- ↓
-Implement
- ↓
-Break it
- ↓
-Understand it again
-```
+### GANs
 
-I'm especially interested in papers involving:
+Probably the topic I could accidentally talk about for hours.
 
-`NLP` · `Generative AI` · `GNNs` · `Transfer Learning`
-`Reinforcement Learning` · `Multimodal AI` · `Autonomous Systems`
-
-I haven't reproduced papers yet as a formal practice, but I **have implemented VAN from scratch** as part of learning through architecture and experimentation.
+The idea of two networks learning through competition is one of the things that made deep learning genuinely fascinating to me.
 
 ---
 
-## `04` — THINGS I'VE BUILT
+### FaceNet
 
-I don't have a giant list of polished ML projects yet.
+FaceNet gave me a different perspective on **representation learning**.
 
-And I'd rather say that honestly.
+It made me appreciate how powerful a learned embedding can be when the model learns a useful representation rather than simply memorizing outputs.
 
-The projects I'm most proud of right now are:
+---
+
+### Graph Neural Networks
+
+GNNs changed how I think about data.
+
+Not everything naturally exists as a flat vector or a sequence.
+
+Sometimes the **relationships themselves are the information**.
+
+---
+
+### VAN — From Scratch
+
+I've implemented **Visual Attention Network (VAN)** from scratch as part of understanding architectures beyond simply using existing implementations.
+
+For me, implementation is part of understanding.
+
+---
+
+## `04` — RESEARCH MODE
+
+<div align="center">
+
+### 研究中
+
+*Currently researching.*
+
+</div>
+
+My current learning process:
+
+```text
+        READ
+          │
+          ▼
+      QUESTION
+          │
+          ▼
+     UNDERSTAND
+          │
+          ▼
+     IMPLEMENT
+          │
+          ▼
+       BREAK
+          │
+          ▼
+     UNDERSTAND
+          │
+          └──────────► REPEAT
+```
+
+I'm currently working my way through research papers and trying to understand the ideas deeply enough to implement and experiment with them.
+
+No paper collection for the sake of collection.
+
+No buzzword collection.
+
+**Understand → implement → learn.**
+
+---
+
+## `05` — THINGS I'VE BUILT
+
+I don't have hundreds of polished ML projects.
+
+And I'm okay with that.
+
+I'd rather build fewer things and understand what I'm building.
 
 ### ◈ Image Logo Remover
 
-An image-processing project that pushed me toward thinking about how computer vision systems can solve practical problems.
+An image-processing project exploring practical computer vision and image manipulation.
 
-`Computer Vision` · `Image Processing` · `AI`
+`Computer Vision` · `Image Processing` · `Python`
 
 ---
 
 ### ◈ MutagenAI
 
-One of the projects I'm personally attached to.
+One of the projects I'm personally proud of.
 
-Not because it's perfect.
-
-Because it represents part of the process of figuring out **how I want to build AI systems**.
+It's part of my journey toward figuring out how I want to build and work with AI systems.
 
 `AI` · `Experimentation` · `Engineering`
 
@@ -152,129 +173,200 @@ Because it represents part of the process of figuring out **how I want to build 
 
 ### ◈ VAN — From Scratch
 
-A learning implementation of the **Visual Attention Network**, built from scratch to understand the architecture rather than treating it as a black box.
+A learning implementation of the Visual Attention Network.
 
-`Deep Learning` · `Computer Vision` · `Architecture`
+Built to understand the architecture rather than treating it as a black box.
+
+`Deep Learning` · `Computer Vision` · `Research`
 
 ---
 
-## `05` — OPEN SOURCE
+## `06` — OPEN SOURCE
 
-### `CONTRIBUTIONS > CLAIMS`
+<div align="center">
 
-I recently started contributing to open source.
+### `CONTRIBUTE > CLAIM`
 
-One contribution I'm particularly interested in:
+</div>
+
+Recently started contributing to open source.
 
 ### ◈ IssuePilot
 
-An AI agent designed to make open-source contribution easier by turning confusing issues into structured starter briefs.
+Contributed to **IssuePilot**, an AI-powered tool designed to help developers understand and approach open-source issues.
 
-It analyzes things like:
+It analyses things such as:
 
 `Issues` · `Codebases` · `Past PRs` · `Relevant Files` · `Difficulty`
 
-**My contribution:** Open-source contribution to an AI-powered developer tool.
+🔗 [View IssuePilot](https://github.com/ayesha-arbi/IssuePilot)
 
 > I want open source to be part of how I learn — not just another section on my profile.
 
 ---
 
-## `06` — THE STACK
+## `07` — MY TOOLBOX
 
-### ML / DL
+### `ML / DL`
 
-`Python` · `scikit-learn` · `Keras`
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+</p>
 
-### AI / Data
+`scikit-learn` · `Keras`
 
-`Vector Databases` · `Pinecone` · `Research / Paper Analysis`
+### `AI / DATA`
 
-### Backend
+`Vector Databases` · `Pinecone`
 
-`FastAPI` · `Flask`
+### `BACKEND`
 
-### Applications
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask" />
+</p>
 
-`React` · `Next.js` · `Streamlit` · `Dash`
+### `APPLICATIONS`
 
-### Infrastructure
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs" />
+</p>
 
-`Render` · `Vercel` · `Railway` · `Cloud`
+`Streamlit` · `Dash`
 
-### Languages
+### `LANGUAGES`
 
-`Python` · `TypeScript` · `JavaScript` · `Java`
+<p>
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,html" />
+</p>
 
-### Databases
+### `DATABASES`
 
 `SQLite` · `Pinecone`
 
+### `DEPLOYMENT`
+
+`Render` · `Vercel` · `Railway` · Cloud
+
+### `TOOLS`
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker" />
+</p>
+
 ---
 
-## `07` — SIDE QUEST
+## `08` — SIDE QUEST
 
 <div align="center">
 
-### 🎮 UNREAL ENGINE
+# 🎮 Unreal Engine
 
-`Blueprints` · `Level Design` · `Gameplay` · `Environment Design`
+### `Blueprints` · `Level Design` · `Gameplay` · `Environment Design`
 
 **A hobby. Not the main quest.**
 
 </div>
 
-I like building things that don't necessarily have to be useful.
+Sometimes I just want to build something that doesn't have to be useful.
 
-Sometimes I just want to make a world.
-
----
-
-## `08` — CONTRIBUTION MATRIX
-
-<div align="center">
-
-<img src="./assets/metrics-isocalendar.svg" width="92%" alt="Isometric GitHub contribution calendar"/>
-
-</div>
-
-<div align="center">
-
-`CONSISTENCY` · `EXPERIMENTATION` · `OPEN SOURCE`
-
-</div>
+Learning Unreal Engine is my current way of exploring **gameplay, environments, and interactive worlds**.
 
 ---
 
-## `09` — OPEN SOURCE SIGNAL
+## `09` — CONTRIBUTION MATRIX
 
 <div align="center">
 
-<img src="./assets/metrics-notable.svg" width="92%" alt="Open source contributions"/>
+<img src="./metrics-isocalendar.svg" width="94%" alt="GitHub contribution calendar"/>
 
 </div>
-
-> **Code is more interesting when it becomes useful to someone else.**
-
----
-
-## `10` — GITHUB SIGNAL
-
-<div align="center">
-
-<img src="./assets/github-stats.svg" width="90%" alt="GitHub statistics"/>
-
-</div>
-
-I care less about the number of commits than **what those commits represent**.
-
----
-
-<div align="center">
-
-<img src="anime-night.jfif" width="100%" alt="Anime night scene"/>
 
 <br>
+
+<div align="center">
+
+`CONSISTENCY` · `EXPERIMENTATION` · `LEARNING`
+
+</div>
+
+---
+
+## `10` — OPEN SOURCE SIGNAL
+
+<div align="center">
+
+<img src="./metrics-notable.svg" width="94%" alt="Open source contributions"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+> **Code becomes more meaningful when it becomes useful to someone else.**
+
+</div>
+
+---
+
+## `11` — GITHUB SIGNAL
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=CodewithTanzeel&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodewithTanzeel&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="170"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+**I care less about the numbers than what the numbers represent.**
+
+</div>
+
+---
+
+## `12` — THE CURRENT ARC
+
+```text
+                         NOW
+                          │
+                          ▼
+                ┌───────────────────┐
+                │   MACHINE LEARNING│
+                └─────────┬─────────┘
+                          │
+                          ▼
+                ┌───────────────────┐
+                │   DEEP LEARNING   │
+                └─────────┬─────────┘
+                          │
+                 ┌────────┴────────┐
+                 ▼                 ▼
+            RESEARCH          IMPLEMENTATION
+                 │                 │
+                 └────────┬────────┘
+                          ▼
+                   INTELLIGENT
+                     SYSTEMS
+                          │
+                          ▼
+                  REAL APPLICATIONS
+
+
+             SIDE QUEST ──► UNREAL ENGINE 🎮
+```
+
+---
+
+<div align="center">
+
+<img src="./anime-night.jfif" width="100%" alt="Anime night scene"/>
+
+<br><br>
 
 ## 夜明けまで、つくる
 
@@ -282,12 +374,16 @@ I care less about the number of commits than **what those commits represent**.
 
 <br>
 
-`ML` · `DL` · `RESEARCH` · `OPEN SOURCE` · `JOY`
+`ML` · `DL` · `RESEARCH` · `OPEN SOURCE` · `SOFTWARE`
 
 <br><br>
 
-**「まだ途中。」**
+### 「まだ途中。」
 
 *Still becoming.*
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" width="100%"/>
 
 </div>
