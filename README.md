@@ -104,45 +104,20 @@ For me, implementation is part of understanding.
 
 ## `04` — RESEARCH MODE
 
-<div align="center">
-
 ### 研究中
+*Finding my way through the literature.*
 
-*Currently researching.*
+I read papers because I want to understand **why** an architecture works,
+not just how to import it.
 
-</div>
+Currently exploring:
 
-My current learning process:
+`NLP` · `RL` · `Transfer Learning` · `Multimodal AI`
+`GNNs` · `Autonomous Vehicles` · `Generative Models`
 
-```text
-        READ
-          │
-          ▼
-      QUESTION
-          │
-          ▼
-     UNDERSTAND
-          │
-          ▼
-     IMPLEMENT
-          │
-          ▼
-       BREAK
-          │
-          ▼
-     UNDERSTAND
-          │
-          └──────────► REPEAT
-```
+**Read → Question → Implement → Break → Understand**
 
-I'm currently working my way through research papers and trying to understand the ideas deeply enough to implement and experiment with them.
-
-No paper collection for the sake of collection.
-
-No buzzword collection.
-
-**Understand → implement → learn.**
-
+> *The interesting part usually starts when the implementation breaks.*
 ---
 
 ## `05` — THINGS I'VE BUILT
