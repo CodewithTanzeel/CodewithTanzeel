@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/anime-day.jpg" width="100%" alt="Anime landscape"/>
+<img src="anime-day.jfif" width="100%" alt="Anime landscape"/>
 
 <br>
 
@@ -272,11 +272,11 @@ I care less about the number of commits than **what those commits represent**.
 
 <div align="center">
 
-<img src="./assets/anime-night.jpg" width="100%" alt="Anime night scene"/>
+<img src="anime-night.jfif" width="100%" alt="Anime night scene"/>
 
 <br>
 
-## 夜明けまで、つくる。
+## 夜明けまで、つくる
 
 ### *Build until the night becomes morning.*
 
