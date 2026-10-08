@@ -6,7 +6,7 @@
 
 # 𝐓𝐀𝐍𝐙𝐄𝐄𝐋 𝐀𝐇𝐌𝐀𝐃
 
-### `Machine Learning` · `Deep Learning` · `Software Engineering`
+### `Software Engineering` · `Machine Learning` · `Deep Learning`
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Machine+Learning+%7C+Deep+Learning;Understanding+before+building.;Researching.+Implementing.+Experimenting.;Building+AI+responsibly.;Building+for+the+joy+of+building." alt="Typing SVG"/>
 
